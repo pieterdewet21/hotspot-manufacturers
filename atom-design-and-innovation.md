@@ -1,13 +1,17 @@
 ## Atom Design and Innovation
 
-Application to become an approved third party manufacturer as per HIP19
+Application to become an approved third party manufacturer as per HIP19.
 
 ## Summary
 
 Our mission is to develop community networks in Africa. We would like to empower engineers, entrepreneurs, and social innovators to enable shared value and solve sustainability challenges. In partnership with the Institute for Technology and Society we aim to make a significant positive difference in our local communities.
 
 ## Company Information
-Atom Design and Innovation (Pty) Ltd was established in 2021. It is based in South Africa with an office in Paarl. The team consists of highly skilled and experienced engineers in the IOT industry. This company was established to design, manufacture and service existing IOT devices. The mission of this company is to build community networks by utilising the Helium network and combining this with existing devices via the LoRa network.
+
+![Atom](https://user-images.githubusercontent.com/91087058/135037901-4de429a3-9c00-4cfa-9ad1-c66a7813b27b.JPG)
+
+
+Atom Design and Innovation (Pty) Ltd was established in 2021. It is based in South Africa with an office in Paarl. The team consists of highly skilled and experienced engineers in the IOT industry. This company was established to design, manufacture and service existing IOT devices. The mission of this company is to build community networks by utilising the Helium network and combining this with existing devices via the LoRa network. Our main focus is to manufacture and distribute to all African countries, enabling community networks to have access to IoT devices to enrich their lives. We are already partnering with non-profit organisations within South Africa to utulise the Helium network for a LoRa-based panic button system in rural communities.
 
 ## Product Information
 Our main product areas are in IoT modules, LoRa gateways and node devices. We have over 30 IoT related products currently in active production.
@@ -26,11 +30,17 @@ The price of the Proton Hotspot Miner will be about R10 000 ($670) for the first
 ## What is your expected production and delivery timeline?
 
 The forecast for production is as follow:
+
 October 2021 – 10 x Proton Hotspot Miner
+
 November 2021 – 20 x Proton Hotspot Miner
+
 December 2021 – 50 x Proton Hotspot Miner
+
 January 2022 – 100 x Proton Hotspot Miner
+
 February 2022 – 500 x Proton Hotspot Miner
+
 The MOQ supply of Hotspots will be revised during this process as we finalise the design, procurement of components and suppliers.
 
 
@@ -41,7 +51,13 @@ For Helium products Atom Design and Innovation works in close collaboration with
 ## Hardware Security Element
 For our current product, Proton Hotspot Miner and in line with the community consensus - we have adopted the ECC608 security element chip to increase the security of the swarm key. For future products we are evaluating more options including other security element chips.
 
+We have used potting as an anti-tampering measure for some of our other IoT devices and will consider this for the Proton Hotspot Miner. We are more than willing to submit a prototype for audit.
+
 ## Hardware Information
+
+See below the assembly drawing for the Proton Hotspot Miner:
+
+![Proton Design V1](https://user-images.githubusercontent.com/91087058/135037089-cd290622-a120-4a59-b960-ad7d246c0df9.png)
 
 Herewith the breakdown of the hardware components used for the Proton Hotspot Miner.
 
@@ -91,6 +107,8 @@ Herewith the breakdown of the hardware components used for the Proton Hotspot Mi
 |:-------------:|:------:|
 |WM1302 (LoRa Gateway)|	Certified with CE, FCC, and TELEC|
 |Raspberry PI CM4|	TBD|
+
+ICASA Type approval is in process for the Proton Hotspot Miner. This device will then be authorised to be used in South Africa and involves verification of the Equipment's compliance with the applicable standards and other regulatory requirements.
 
 ## Manufacturing Information
 We have extensive experience with developing and implementing our own radio-frequency (RF) networks for our IoT products. We manufactured and sold up to 500 of our own gateways. We also have experience with the Sigfox network, but due to uncertainties, all IoT devices will be reworked to communicate via the LoRa network. This will enable us to quickly deploy our first manufactured gateways to existing clients and to expand from this.
